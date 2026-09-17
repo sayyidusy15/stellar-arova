@@ -11,9 +11,13 @@ export function Footer() {
         <div className="flex flex-col sm:flex-row items-center justify-between gap-6 pb-8 border-b border-[#1f1f1f]">
           {/* Left: Minimalist Logo Link */}
           <Link href="/" className="flex items-center gap-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white rounded-sm">
-            <span className="font-bold text-xl tracking-tight text-white font-mono">
-              Arova
-            </span>
+            <Image
+              src="/logo-arova.png"
+              alt="Arova"
+              width={120}
+              height={36}
+              className="h-7 w-auto object-contain"
+            />
           </Link>
 
           {/* Center/Right: Simple navigation links */}

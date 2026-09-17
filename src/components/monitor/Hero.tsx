@@ -112,7 +112,7 @@ export function Hero() {
             <div className="flex items-center rounded-[661px] bg-white/8 backdrop-blur-md border border-[#8A8A8A]/30 p-1 gap-0">
               {/* Left: View Source */}
               <a
-                href="https://github.com/stellar/stellar-arova"
+                href="https://github.com/sayyidusy15/stellar-arova"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-2 pl-5 pr-4 py-2 text-[14px] text-[#8a8a8a] hover:text-[#ffffff] transition-colors duration-200 whitespace-nowrap focus-visible:outline-none focus-visible:text-white"

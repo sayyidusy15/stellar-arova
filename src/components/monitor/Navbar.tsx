@@ -42,9 +42,14 @@ export function Navbar() {
             href="/"
             className="flex items-center gap-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white rounded-sm"
           >
-            <span className="font-bold text-xl tracking-tight text-white font-mono">
-              Arova
-            </span>
+            <Image
+              src="/logo-arova.png"
+              alt="Arova"
+              width={120}
+              height={36}
+              className="h-8 w-auto object-contain"
+              priority
+            />
           </Link>
 
           {/* Center: Navigation Links (Desktop) */}
@@ -66,7 +71,7 @@ export function Navbar() {
           {/* Right: Open Docs CTA & Mobile Toggle */}
           <div className="flex items-center gap-3">
             <a
-              href="https://github.com/stellar/stellar-arova"
+              href="https://github.com/sayyidusy15/stellar-arova"
               target="_blank"
               rel="noreferrer"
               className="hidden sm:inline-flex px-5 py-2 rounded-full bg-[#ffffff] text-[#000000] text-[13px] font-mono font-medium transition-all duration-300 hover:opacity-90 hover:scale-[1.02] active:scale-[0.98] whitespace-nowrap"
@@ -102,7 +107,7 @@ export function Navbar() {
             </nav>
             <div className="pt-3 border-t border-[#1a1a1a]">
               <a
-                href="https://github.com/stellar/stellar-arova"
+                href="https://github.com/sayyidusy15/stellar-arova"
                 target="_blank"
                 rel="noreferrer"
                 onClick={() => setMobileMenuOpen(false)}

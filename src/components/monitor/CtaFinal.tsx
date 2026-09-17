@@ -107,7 +107,7 @@ export function CtaFinal() {
 
           {/* 1 Single Button — Rounded Pill */}
           <div className="pt-2">
-            <a href="https://github.com/stellar/stellar-arova" target="_blank" rel="noreferrer">
+            <a href="https://github.com/sayyidusy15/stellar-arova" target="_blank" rel="noreferrer">
               <motion.button
                 type="button"
                 whileHover={{ scale: 1.04 }}
