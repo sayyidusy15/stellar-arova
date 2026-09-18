@@ -19,7 +19,7 @@ export function Navbar() {
     { label: 'How It Works', href: '#how-it-works' },
     { label: 'Privacy', href: '#solution' },
     { label: 'For Marketplaces', href: '#capabilities' },
-    { label: 'Docs', href: '/docs/simple-guide' },
+    // { label: 'Docs', href: '/docs/simple-guide' },
   ];
 
   return (
