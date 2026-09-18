@@ -174,5 +174,6 @@ stellar-arova/
 
 This implementation follows the **Arova Instawards Statement of Work (SOW)** guidelines for product scope, terminology, privacy boundaries, and verification flow.
 
+- **Live Production URL**: [https://stellar-arova.vercel.app/](https://stellar-arova.vercel.app/)
 - **Primary Repository**: [https://github.com/sayyidusy15/stellar-arova](https://github.com/sayyidusy15/stellar-arova)
 - **License**: MIT
