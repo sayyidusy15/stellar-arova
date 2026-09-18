@@ -60,9 +60,9 @@ export function HomeNavbar() {
           <a href="#roadmap" className="hover:text-cyan-400 transition-colors">
             Roadmap
           </a>
-          <Link href="/docs/simple-guide" className="hover:text-cyan-400 transition-colors">
+          {/* <Link href="/docs/simple-guide" className="hover:text-cyan-400 transition-colors">
             Docs
-          </Link>
+          </Link> */}
         </nav>
 
         {/* Right Action CTAs */}

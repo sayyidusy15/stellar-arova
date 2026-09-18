@@ -47,9 +47,9 @@ export function DocsNavbar({ onOpenSearch, onToggleMobileSidebar }: DocsNavbarPr
 
           {/* Top Nav Links */}
           <nav className="hidden lg:flex items-center gap-5 text-xs font-mono font-medium text-[#8a8a8a]">
-            <Link href="/docs/overview" className="hover:text-white transition-colors">
+            {/* <Link href="/docs/overview" className="hover:text-white transition-colors">
               {t(lang, 'nav.docs')}
-            </Link>
+            </Link> */}
             <Link href="/docs/architecture" className="hover:text-white transition-colors">
               {t(lang, 'nav.architecture')}
             </Link>
