@@ -3,7 +3,7 @@
   <h1>Arova</h1>
   <p>Private review-eligibility gate for Stellar marketplace applications.</p>
 
-  <a href="https://github.com/sayyidusy15/stellar-arova"><img src="https://img.shields.io/badge/demo-live-22c55e.svg" alt="Live demo"></a>
+  <a href="https://stellar-arova.vercel.app/"><img src="https://img.shields.io/badge/demo-live-22c55e.svg" alt="Live demo"></a>
   <img src="https://img.shields.io/badge/chain-Stellar%20Testnet-7c3aed.svg" alt="Stellar Testnet">
   <img src="https://img.shields.io/badge/contracts-Soroban-111827.svg" alt="Soroban">
   <img src="https://img.shields.io/badge/frontend-Next.js%2016-black.svg" alt="Next.js 16">
